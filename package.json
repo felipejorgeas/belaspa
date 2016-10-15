@@ -1,0 +1,29 @@
+{
+  "name": "belaspa",
+  "version": "1.0.0",
+  "description": "Bela Spa - Bot",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipejorgeas/belaspa.git"
+  },
+  "author": "Felipe Jorge - felipejorgeas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipejorgeas/belaspa/issues"
+  },
+  "homepage": "https://github.com/felipejorgeas/belaspa#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "mongoose": "^4.6.3",
+    "request": "^2.75.0"
+  }
+}
